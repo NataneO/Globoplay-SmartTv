@@ -8,6 +8,10 @@ Projeto teste para vaga Globoplay - SmartTv
 Efetuar o clone através do seu repositório e executar o comando 'npm install'
 
 
+*- Como rodar o projeto?*
+
+
+Após instalar o projeto, executar o compando 'npm start'
 
 
 *- Como navegar pelo projeto?*
@@ -53,6 +57,10 @@ Pretendo continuar implementando novas funcionalidades em branchs desse mesmo pr
 # Existirão melhorias?
 
 Sim. Nas outras branchs desse projeto existirão novas features, para fins de estudo ( caso tenha interesse, contribua!)
+
+# Como acessar as outras features que ainda não estão completas ?
+
+No seu terminal, basta rodar o comando 'git checkout feature-canvas' e, em seguida, rodar o projeto.
 
 abração <3
 
