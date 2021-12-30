@@ -2,20 +2,24 @@
 Projeto teste para vaga Globoplay - SmartTv
 
 
--Como instalar o projeto
+*- Como instalar o projeto?*
+
+
 Efetuar o clone através do seu repositório e executar o comando 'npm install'
 
 
--Como rodar o projeto
-Após a instalação do projeto, através do terminal executar o comando 'npm start'
 
 
--Como navegar pelo projeto
+*- Como navegar pelo projeto?*
+
+
 Após rodar o projeto, acessar o link http://localhost:8080/
 A navegação é feita através das teclas direcionais com base nas premissas do desafio.
 
 
--Como buildar o projeto
+*- Como buildar o projeto?*
+
+
 Executar o comando 'npm build'
 
 # Observações acerca do desafio 
