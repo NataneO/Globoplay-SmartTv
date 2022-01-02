@@ -8,7 +8,8 @@
   "main": "main.js",
   "scripts": {
     "test": "jest",
-    "start": "webpack-dev-server  --hot --progress"
+    "start": "webpack-dev-server  --hot --progress",
+    "build": "webpack --config webpack.prod.js"
   },
   "keywords": [],
   "author": "",
